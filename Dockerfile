@@ -47,6 +47,7 @@ RUN apt-get update \
     spacetime \
     spatstat \
     spdep \
+    tidycensus \
     tmap \
     geoR \
     geosphere \
